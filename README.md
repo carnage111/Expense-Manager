@@ -25,7 +25,7 @@ To get started with the Expense Manager locally, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/expense-manager.git
+   git clone https://github.com/carnage111/Expense-Manager.git
    cd expense-manager
 Configure Database:
 
